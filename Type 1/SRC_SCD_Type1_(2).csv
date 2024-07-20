@@ -1,0 +1,6 @@
+EmployeeID,Name,Address,Salary,Department,EffectiveDate
+1,John,Cairo,6000,HR,01-01-24
+2,Jane,456 Oak St,0000,IT,01-01-24
+3,Bob,789 Pine St,5555,Finance,01-01-24
+4,Alice,Alex,70000,IT,01-01-24
+5,Ali,Cairo,9000,IT,1-4-21
